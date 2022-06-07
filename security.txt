@@ -1,0 +1,1 @@
+keytool -genkeypair -alias ficews-key -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore ficewskey.p12 -validity 365
